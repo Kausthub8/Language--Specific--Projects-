@@ -1,4 +1,4 @@
-# Practice Projects which generally involves building mock level[amateur] applications either as a desktop or a web application.
+# Practice Projects which generally involves building mock level applications either as a desktop or a web application.
 
 A) First project is related to University Student Employee Salary Management System. Program was created  using the salary benefits involved in on-campus jobs [Gross.c]
 
